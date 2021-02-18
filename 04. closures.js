@@ -130,7 +130,7 @@ console.dir(sum); // we can see now num1 and num2 are under script in scopes.. f
 
     console.dir(sum); // we get back our closure now, you know the reason
 })();
-*/
+
 
 function stopWatch() {
     var startTime = Date.now();
@@ -159,3 +159,4 @@ timer = null;
 // I am clear about async js yet, so, I am stopping her now, I will continue this after I am clear about async js
 
 // present video time is 44:51
+*/
